@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "type-erasure-example-csharp", "type-erasure-example-csharp.csproj", "{A3F8DF44-D9AC-4250-84E1-DFBA5DF2A385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F8DF44-D9AC-4250-84E1-DFBA5DF2A385}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A3F8DF44-D9AC-4250-84E1-DFBA5DF2A385}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A3F8DF44-D9AC-4250-84E1-DFBA5DF2A385}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A3F8DF44-D9AC-4250-84E1-DFBA5DF2A385}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65172A8A-897A-42F7-AD29-30EBBFD0F0C5}
+	EndGlobalSection
+EndGlobal
